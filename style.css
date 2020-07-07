@@ -18,3 +18,32 @@ body{
   background-color: black;
 
 }
+
+.see-all{
+  color: orange;
+  font-size: 30px;
+  
+  
+  
+}
+
+.card{
+  border: none;
+  padding: 10px;
+  box-shadow: 5px 10px 18px gray;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.card-footer{
+  background-color: white;
+  border-top: none;
+}
+
+/* .carousel-indicators{
+  color: black;
+} */
+
+.card-height{
+  height: 10px;
+}
