@@ -76,3 +76,8 @@
 .container{
   padding-bottom: 80px;
 }
+
+.carousel-indicators li{
+  background-color: brown;
+  height: 10px;
+}
