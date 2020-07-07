@@ -44,6 +44,37 @@ body{
   color: black;
 } */
 
-.card-height{
-  height: 10px;
+
+.box{
+  height: 11px;
+  width: 161px;
+  background-image: linear-gradient(to right, #ecbc4e 0%, #efba43 51%, #f99500 100%);
+  border-radius: 10px;
+  margin: auto;
+  
+}
+
+/*  */
+
+.hand-bucket img {
+  width: 100%;
+}
+
+.img-left {
+  border-radius: 10px 15px 10px 30px;
+  box-shadow: 10px 10px 20px #ece9e9;
+  padding: 20px 30px 0 30px;
+}
+.img-right-1,
+.img-right-2 {
+  border-radius: 15px 10px 30px 10px;
+  box-shadow: 10px 10px 20px #ece9e9;
+  padding: 20px 30px 0 30px;
+}
+.col-md-3 {
+  max-width: 100%;
+}
+
+.container{
+  padding-bottom: 80px;
 }
